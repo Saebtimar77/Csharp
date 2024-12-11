@@ -1,0 +1,16 @@
+C:\Users\saebt\source\repos\Phone book\Phone book\bin\Debug\Phone book.exe.config
+C:\Users\saebt\source\repos\Phone book\Phone book\bin\Debug\Phone book.exe
+C:\Users\saebt\source\repos\Phone book\Phone book\bin\Debug\Phone book.pdb
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone book.csproj.AssemblyReference.cache
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Form1.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Properties.Resources.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Singnin.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Singnup.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone book.csproj.GenerateResource.cache
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone book.csproj.CoreCompileInputs.cache
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone book.exe
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone book.pdb
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Abstract.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Sealed.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Partial.resources
+C:\Users\saebt\source\repos\Phone book\Phone book\obj\Debug\Phone_book.Poly.resources
